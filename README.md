@@ -6,6 +6,7 @@ Set up:
 - Save Data from: 
 
 #Die Daten sind auf der Website des DEUTSCHEN WETTERDIENSTES (DWD) abzurufen
+
 #ftp://ftp-cdc.dwd.de/pub/CDC/observations_germany/climate/hourly/wind/historical/ (stuendliche Winddaten Deutschlands)
 
 #Der DWD stellt Daten verschiedener Klimaelemente ueber den CDC FTP-Server (Climate Data Center) zur Verfuegung
@@ -17,6 +18,7 @@ Set up:
 
 #Mac
 setwd("~/Desktop/data")
+
 #Windows
 setwd("C:/Users/user/Desktop/data")
 
