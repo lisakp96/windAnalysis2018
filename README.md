@@ -28,9 +28,14 @@ setwd("C:/Users/user/Desktop/data")
 Notes:
 
 code.R is the code including the time series analyis for the wind speed data. 
+
 WindAnalysis.pdf is the start-up work to analyse the data in german language.
+
 codeBA.R is the code including the performance analysis of the wind tubrines & the business analyis. 
+
 BusinessAnalysisWind.pdf is the writeup report in german language.
 
+
 I used R Studio Version: 1.1.453
+
 Installed Packages can be taken from the Code. 
